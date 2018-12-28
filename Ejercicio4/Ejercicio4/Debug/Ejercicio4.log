@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 26/05/2018 11:40:28.
+     1>Proyecto "C:\hlocal\EDA\Praparacion examen\Ejercicio4\Ejercicio4\Ejercicio4.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\hlocal\eda\praparacion examen\ejercicio4\ejercicio4\cola.h(68): warning C4018: '>' : no coinciden signed/unsigned
+                 c:\hlocal\eda\praparacion examen\ejercicio4\ejercicio4\cola.h(66) : durante la compilación de la función miembro de plantilla de clase 'void Cola<int>::llevarAlPrincipio(unsigned int)'
+                 c:\hlocal\eda\praparacion examen\ejercicio4\ejercicio4\main.cpp(62) : vea la referencia a la creación de instancias de plantilla de función 'void Cola<int>::llevarAlPrincipio(unsigned int)' que se está compilando
+                 c:\hlocal\eda\praparacion examen\ejercicio4\ejercicio4\main.cpp(37) : vea la referencia a la creación de instancias de plantilla de clase 'Cola<int>' que se está compilando
+     1>c:\hlocal\eda\praparacion examen\ejercicio4\ejercicio4\cola.h(72): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\hlocal\EDA\Praparacion examen\Ejercicio4\Debug\Ejercicio4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\hlocal\EDA\Praparacion examen\Ejercicio4\Debug\Ejercicio4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\hlocal\EDA\Praparacion examen\Ejercicio4\Debug\Ejercicio4.lib" /MACHINE:X86 Debug\main.obj
+         Ejercicio4.vcxproj -> C:\hlocal\EDA\Praparacion examen\Ejercicio4\Debug\Ejercicio4.exe
+     1>Compilación del proyecto terminada "C:\hlocal\EDA\Praparacion examen\Ejercicio4\Ejercicio4\Ejercicio4.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.78
