@@ -1,0 +1,11 @@
+- Debes implementar en el archivo 'main.cpp' el subprograma
+unsigned int numero_singulares(Arbin<int> a);
+que está incluido al principio del archivo.
+
+- Asimismo, en el archivo 'main.cpp' está el programa de prueba.
+Este programa no debe modificarse. 
+Se incluye un comentario sobre el formato de la entrada / salida,
+con 4 ejemplos de salidas que daría el programa para otros tantos
+árboles.
+
+
