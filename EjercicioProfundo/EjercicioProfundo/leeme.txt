@@ -1,0 +1,10 @@
+- Debes implementar en el archivo 'main.cpp' el subprograma
+unsigned int numero_hojas_mas_profundas_que(Arbin<int> a, unsigned int k); 
+que está incluido al principio del archivo.
+
+- Asimismo, en el archivo 'main.cpp' está el programa de prueba.
+Este programa no debe modificarse. 
+Se incluye un comentario sobre el formato de la entrada / salida,
+con ejemplos de entradas y salidas asociadas.
+
+
